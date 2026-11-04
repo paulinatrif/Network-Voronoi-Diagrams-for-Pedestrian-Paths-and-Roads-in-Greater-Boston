@@ -1,0 +1,13 @@
+Category,Metric,Mean,Median,Std,Min,Max,N
+education (walk),Median dist,8.58,6.21,7.69,0.0,65.82,1086
+education (walk),Max dist,20.3,15.07,17.23,0.0,129.21,1086
+education (car),Median dist,0.94,0.76,0.63,0.0,4.19,1061
+education (car),Max dist,2.11,1.71,1.54,0.0,10.28,1061
+health (walk),Median dist,12.39,8.93,11.76,0.0,62.66,446
+health (walk),Max dist,31.42,22.99,30.83,0.0,173.9,446
+health (car),Median dist,1.38,1.14,1.11,0.0,7.35,433
+health (car),Max dist,3.22,2.67,2.67,0.0,14.14,433
+food (walk),Median dist,4.67,2.31,6.89,0.0,71.99,2373
+food (walk),Max dist,11.03,5.27,15.23,0.0,129.05,2373
+food (car),Median dist,0.56,0.37,0.63,0.0,5.05,1997
+food (car),Max dist,1.27,0.81,1.47,0.0,10.47,1997
